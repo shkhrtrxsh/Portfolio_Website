@@ -9,9 +9,7 @@ const Home = () => {
             h-full px-4 md:flex-row'>
             <div className='flex flex-col justify-center h-full'>
             <h2 className='text-4xl mt-7 sm:text-7xl font-bold text-white'>I'm a MERN Stack Developer</h2>
-            <p className='text-gray-500 py-2 pr-4'>I have 3 years of experience building and desgining software.
-            Currently, I love to work on web application using technologies like
-            React, Tailwind, Node JS and MongoDB.</p>
+            <p className='text-gray-500 py-2 pr-4'>I'm a web developer with 3+ years of experience building software. I specialize in using React, Tailwind, Node JS, and MongoDB to create user-friendly web applications. Passionate about delivering exceptional results, I am always seeking new challenges to enhance my skills.</p>
             
             <div className=''>
             <Link to='portfolio' smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
